@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahendra-gehlot
-- 👀 I’m interested in Machine Learning and Artificial Interllengence
-- 🌱 I’m currently learning Application of AI in NLP.
+- 👀 I’m interested in Machine Learning and Artificial Interllengence.
+- 🌱 I’m currently learning Natural Language Processing.
 - 💞️ I’m looking to collaborate on NLP and Computer Vision.
 - 📫 Write mail to connect.mge@gmail.com
 
