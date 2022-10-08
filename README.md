@@ -1,10 +1,11 @@
-## 👋 Hi, I’m Mahendra-gehlot (He/his), friend and collaborator.
+## 👋 Hi, 
+I’m Mahendra-gehlot (He/his), friend and collaborator.
 
 ## Interest
 Machine Learning and Artificial Interllengence
 
 ## Learning
-🌱 I’m currently learning Natural Language Processing
+🌱 Natural Language Processing and Computer Vision
 
 
 ## Languages and Tools:
@@ -16,7 +17,7 @@ Machine Learning and Artificial Interllengence
 <img align="left" alt="Pytorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
 <img align="left" alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>
 <img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>
-<img align="left" alt="PyCharm" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>
+<img align="left" alt="PyCharm" width="40px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm.svg"/>
 
 <br />
 <br />
@@ -24,7 +25,7 @@ Machine Learning and Artificial Interllengence
 ## Love to colaborate
 NLP and Computer Vision
 
-## Let Connect
+## Contact
  📫 Write mail to connect.mge@gmail.com
 
 <!---
