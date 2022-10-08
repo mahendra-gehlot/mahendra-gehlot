@@ -1,13 +1,13 @@
-### 👋 Hi, I’m Mahendra-gehlot (He/his), friend and collaborator.
+## 👋 Hi, I’m Mahendra-gehlot (He/his), friend and collaborator.
 
-# Interest
-Machine Learning and Artificial Interllengence.
+## Interest
+Machine Learning and Artificial Interllengence
 
-# In Progress
-- 🌱 I’m currently learning Natural Language Processing.
+## Learning
+🌱 I’m currently learning Natural Language Processing
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <br />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
@@ -21,11 +21,11 @@ Machine Learning and Artificial Interllengence.
 <br />
 <br />
 
-# Love to colaborate
-- 💞️ I’m looking to collaborate on NLP and Computer Vision.
+## Love to colaborate
+NLP and Computer Vision
 
-# Let Connect
-- 📫 Write mail to connect.mge@gmail.com
+## Let Connect
+ 📫 Write mail to connect.mge@gmail.com
 
 <!---
 mahendra-gehlot/mahendra-gehlot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
