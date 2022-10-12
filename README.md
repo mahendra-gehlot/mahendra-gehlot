@@ -1,4 +1,4 @@
-## 👋 Hi, 
+## 👋 Hurrey, Welcome Buddy
 I’m Mahendra-gehlot (He/his), friend and collaborator.
 
 ## Interest
